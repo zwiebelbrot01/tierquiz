@@ -1,0 +1,301 @@
+[
+  {
+    "name": "Javablattvogel",
+    "scientific_name": "Chloropsis cochinchinensis",
+    "habitat": "Tropischer Regenwald",
+    "sound": "/sounds/javablattvogel.mp3",
+    "image": "/images/blaufuegel-laubvogel.jpg",  
+     "Körperlänge": "16",
+    "Spannweite": "25"
+
+  },
+  {
+    "name": "Rotkopf-Specht",
+    "scientific_name": "Melanerpes erythrocephalus",
+    "habitat": "Wälder und Parks",
+    "sound": "/sounds/rotkopf-specht.mp3",
+    "image": "/images/rotkopf-specht.jpg",
+     "Körperlänge": "24",
+    "Spannweite": "42"
+  },
+  {
+    "name": "Sumpfrohrsänger",
+    "scientific_name": "Acrocephalus palustris",
+    "habitat": "Feuchtgebiete und Schilf",
+    "sound": "/sounds/sumpfrohrsaenger.mp3",
+    "image": "/images/sumpfrohrsaenger.jpeg",
+    "Körperlänge": "14",
+    "Spannweite": "20"
+
+  },
+  {
+    "name": "Mönchsgrasmücke",
+    "scientific_name": "Sylvia atricapilla",
+    "habitat": "Wälder und Gärten",
+    "sound": "/sounds/moenchsgrasmuecke.mp3",
+    "image": "/images/moenchsgrasmuecke.jpg",
+      "Körperlänge": "13",
+    "Spannweite": "22"
+  },
+  {
+    "name": "Nachtigall",
+    "scientific_name": "Luscinia megarhynchos",
+    "habitat": "Büsche und Wälder",
+    "sound": "/sounds/nachtigall.mp3",
+    "image": "/images/nachtigall.jpg",
+       "Körperlänge": "15",
+    "Spannweite": "24"
+  },
+  {
+    "name": "Pirol",
+    "scientific_name": "Oriolus oriolus",
+    "habitat": "Laubwälder",
+    "sound": "/sounds/pirol.mp3",
+    "image": "/images/pirol.jpeg",
+       "Körperlänge": "25",
+    "Spannweite": "44"
+  },
+  {
+    "name": "Schwarzkehlchen",
+    "scientific_name": "Saxicola rubicola",
+    "habitat": "Offene Landschaften",
+    "sound": "/sounds/schwarzkehlchen.mp3",
+    "image": "/images/schwarzkehlchen.jpeg",
+      "Körperlänge": "12",
+    "Spannweite": "19"
+  },
+  {
+    "name": "Zaunkönig",
+    "scientific_name": "Troglodytes troglodytes",
+    "habitat": "Wälder, Gärten, Hecken",
+    "sound": "/sounds/zaunkoenig.mp3",
+    "image": "/images/zaunkoenig.jpg",
+       "Körperlänge": "10",
+    "Spannweite": "14"
+  },
+  {
+    "name": "Blaumeise",
+    "scientific_name": "Cyanistes caeruleus",
+    "habitat": "Wälder, Gärten, Parks",
+    "sound": "/sounds/blaumeise.mp3",
+    "image": "/images/blaumeise.jpg",
+      "Körperlänge": "11",
+    "Spannweite": "18"
+  },
+  {
+    "name": "Kohlmeise",
+    "scientific_name": "Parus major",
+    "habitat": "Wälder, Gärten, Parks",
+    "sound": "/sounds/kohlmeise.mp3",
+    "image": "/images/kohlmeise.jpg",
+     "Körperlänge": "13",
+    "Spannweite": "22"
+  },
+  {
+    "name": "Rotkehlchen",
+    "scientific_name": "Erithacus rubecula",
+    "habitat": "Wälder, Hecken, Gärten",
+    "sound": "/sounds/rotkehlchen.mp3",
+    "image": "/images/rotkehlchen.jpg",
+      "Körperlänge": "14",
+    "Spannweite": "21"
+  },
+  {
+    "name": "Eisvogel",
+    "scientific_name": "Alcedo atthis",
+    "habitat": "Flüsse, Seen, Bäche",
+    "sound": "/sounds/eisvogel.mp3",
+    "image": "/images/eisvogel.jpg",
+        "Körperlänge": "17",
+    "Spannweite": "25"
+  },
+  {
+    "name": "Buchfink",
+    "scientific_name": "Fringilla coelebs",
+    "habitat": "Wälder, Gärten, Parks",
+    "sound": "/sounds/buchfink.mp3",
+    "image": "/images/buchfink.jpg",
+        "Körperlänge": "16",
+    "Spannweite": "24"
+  },
+  {
+    "name": "Turmfalke",
+    "scientific_name": "Falco tinnunculus",
+    "habitat": "Wiesen, Städte, Klippen",
+    "sound": "/sounds/turmfalke.mp3",
+    "image": "/images/turmfalke.jpg",
+        "Körperlänge": "36",
+    "Spannweite": "80"
+  },
+  {
+    "name": "Waldkauz",
+    "scientific_name": "Strix aluco",
+    "habitat": "Wälder, Parks",
+    "sound": "/sounds/waldkauz.mp3",
+    "image": "/images/waldkauz.jpg",
+      "Körperlänge": "38",
+    "Spannweite": "94"
+  },
+  {
+    "name": "Schleiereule",
+    "scientific_name": "Tyto alba",
+    "habitat": "Scheunen, Kirchen, Felder",
+    "sound": "/sounds/schleiereule.mp3",
+    "image": "/images/schleiereule.jpg",
+     "Körperlänge": "34",
+    "Spannweite": "85"
+  },
+  {
+    "name": "Uhu",
+    "scientific_name": "Bubo bubo",
+    "habitat": "Felsen, Berge, Wälder",
+    "sound": "/sounds/uhu.mp3",
+    "image": "/images/uhu.jpg",
+    "Körperlänge": "67",
+    "Spannweite": "170"
+  },
+  {
+    "name": "Kernbeißer",
+    "scientific_name": "Coccothraustes coccothraustes",
+    "habitat": "Laubwälder, Parks, Gärten",
+    "sound": "/sounds/Kernbeißer.mp3",
+    "image": "/images/kernbeißer.jpg",
+       "Körperlänge": "18",
+    "Spannweite": "31"
+  },
+  {
+    "name": "Girlitz",
+    "scientific_name": "Serinus serinus",
+    "habitat": "Obstgärten, Parks, Gärten",
+    "sound": "/sounds/Girlitz.mp3",
+    "image": "/images/girlitz.jpg",
+       "Körperlänge": "11",
+    "Spannweite": "20"
+  },
+  {
+    "name": "Flussregenpfeifer",
+    "scientific_name": "Charadrius dubius",
+    "habitat": "Flussufer, Kiesbänke, Seen",
+    "sound": "/sounds/12r.mp3",
+    "image": "/images/flussregenpfeifer.jpeg",
+          "Körperlänge": "17",
+    "Spannweite": "42"
+  },
+  {
+    "name": "Neuntöter",
+    "scientific_name": "Lanius collurio",
+    "habitat": "Feldränder, Hecken, Wiesen",
+    "sound": "/sounds/Neuntöter.mp3",
+    "image": "/images/neuntoeter.jpg",
+       "Körperlänge": "18",
+    "Spannweite": "25"
+  },
+  {
+    "name": "Schwarzspecht",
+    "scientific_name": "Dryocopus martius",
+    "habitat": "Wälder, große Parkanlagen",
+    "sound": "/sounds/Schwarzspecht.mp3",
+    "image": "/images/schwarzspecht.jpg",
+     "Körperlänge": "45",
+    "Spannweite": "70"
+  },
+  {
+    "name": "Waldlaubsänger",
+    "scientific_name": "Phylloscopus sibilatrix",
+    "habitat": "Laubwälder, Mischwälder",
+    "sound": "/sounds/waldlaubsaenger.mp3",
+    "image": "/images/waldlaubsänger.jpg",
+       "Körperlänge": "13",
+    "Spannweite": "24"
+  },
+  {
+    "name": "Steinkauz",
+    "scientific_name": "Athene noctua",
+    "habitat": "Offene Landschaften, Bauernhöfe",
+    "sound": "/sounds/steinkauz.mp3",
+    "image": "/images/steinkauz.jpg",
+        "Körperlänge": "23",
+    "Spannweite": "58"
+  },
+  {
+    "name": "Feldlerche",
+    "scientific_name": "Alauda arvensis",
+    "habitat": "Äcker, Wiesen, Felder",
+    "sound": "/sounds/feldlerche.mp3",
+    "image": "/images/feldlerche.jpg",
+        "Körperlänge": "18",
+    "Spannweite": "36"
+  },
+  {
+    "name": "Haubenmeise",
+    "scientific_name": "Lophophanes cristatus",
+    "habitat": "Nadelwälder, Mischwälder",
+    "sound": "/sounds/haubenmeise.mp3",
+    "image": "/images/haubenmeise.jpg",
+           "Körperlänge": "11",
+    "Spannweite": "17"
+  },
+  {
+    "name": "Gimpel",
+    "scientific_name": "Pyrrhula pyrrhula",
+    "habitat": "Wälder, Parks, Gärten",
+    "sound": "/sounds/gimpel.mp3",
+    "image": "/images/gimpel.jpg",
+            "Körperlänge": "16",
+    "Spannweite": "26"
+  },
+    {
+      "name": "Hyazinthara",
+      "scientific_name": "Anodorhynchus hyacinthinus",
+      "habitat": "Tropische Regenwälder, Brasilien",
+      "sound": "/sounds/hyazinthara.mp3",
+      "image": "/images/hyazinthara.jpg",
+                "Körperlänge": "100",
+    "Spannweite": "140"
+    },
+    {
+      "name": "Königsparadiesvogel",
+      "scientific_name": "Cicinnurus regius",
+      "habitat": "Regenwälder Neuguineas",
+      "sound": "/sounds/königsparadiesvogel.mp3",
+      "image": "/images/königsparadiesvogel.jpg",
+     "Körperlänge": "16",
+    "Spannweite": "20"
+    },
+    {
+      "name": "Quetzal",
+      "scientific_name": "Pharomachrus mocinno",
+      "habitat": "Bergwälder Mittelamerikas",
+      "sound": "/sounds/quetzal.mp3",
+      "image": "/images/quetzal.jpg",
+       "Körperlänge": "40",
+    "Spannweite": "60"
+    },
+    {
+      "name": "Schuhschnabel",
+      "scientific_name": "Balaeniceps rex",
+      "habitat": "Sumpfgebiete Zentralafrikas",
+      "sound": "/sounds/schuhschnabel.mp3",
+      "image": "/images/schuhschnabel.png",
+       "Körperlänge": "140",
+    "Spannweite": "260"
+    },
+    {
+      "name": "Harpyie",
+      "scientific_name": "Harpia harpyja",
+      "habitat": "Regenwälder Südamerikas",
+      "sound": "/sounds/harpyie.mp3",
+      "image": "/images/harpyie.jpg",
+          "Körperlänge": "107",
+    "Spannweite": "224"
+    },
+    {
+      "name": "Weißkopfseeadler",
+      "scientific_name": "Haliaeetus leucocephalus",
+      "habitat": "Nordamerika Küsten, Seen, Flüsse, Wälder",
+      "sound": "/sounds/weisskopfseeadler.mp3",
+      "image": "/images/weisskopfseeadler.jpg",
+        "Körperlänge": "86",
+    "Spannweite": "200"
+    }
+]
